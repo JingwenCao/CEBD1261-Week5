@@ -2,7 +2,9 @@
 
 ## Exercise 1 (In class):
 week5b1.scala	
+
 week5b2.scala
+
 wordCount.scala
 
 ## Exercise 2:
